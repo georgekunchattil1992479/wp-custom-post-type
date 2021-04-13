@@ -1,1 +1,1 @@
-# wp-CustomPostType 
+# wpCustomPostType 
